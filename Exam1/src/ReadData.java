@@ -82,7 +82,6 @@ public class ReadData {
                     else  {
                        if(isCircle == true && turntrack == 0) {
 
-                           System.out.println(p.substring(2));
 
                            C1.setID(Integer.parseInt(p.substring(1)));
                            turntrack++;
