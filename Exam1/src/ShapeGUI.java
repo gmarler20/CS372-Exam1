@@ -1,3 +1,19 @@
+/*
+FEEDBACK
+
+Read from the file correctly: 20/20%
+Implement class hierarchy correctly: 20/20%
+Populate appropriate data structures with shape data: 15/15%
+Show list of shapes correctly: 15/15%
+Show specific shape properties correctly: 15/15%
+Well-structured, well-commented code: 12/15%
+
+
+Comments:
+  Shape doesn't need to define toString() since it's on Object
+  ReadData could be much cleaner. Break it apart into separate functions
+*/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
